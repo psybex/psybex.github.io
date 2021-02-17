@@ -20,7 +20,7 @@ title                    : "Jini's Note"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Jini"
-description              : "A flexible Jekyll theme for my portforlio blog"
+description              : "회상, 기술들에 대한 정리와 기록" #"A flexible Jekyll theme for my portforlio blog"
 url                      : "https://psybex.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

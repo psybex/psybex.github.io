@@ -1,9 +1,11 @@
 ---
-title : ""
+title : "오라클 객체 정보 문자열 조회 쿼리"
 category : 
     - Database
 tag :
-    - Database, Oracle, Tip
+    - Database
+    - Oracle
+    - Tip
 toc : true
 ---
 
